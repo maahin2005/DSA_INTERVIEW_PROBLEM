@@ -15,6 +15,9 @@ def Substring(s):
                 
 
 
+
+# Time Complexity: O(n^2)
+# Space Complexity: O(1)
 def longest_palindrome(s):
     def expand_around_center(left, right):
         while left >= 0 and right < len(s) and s[left] == s[right]:

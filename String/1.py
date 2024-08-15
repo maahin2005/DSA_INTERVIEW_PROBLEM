@@ -13,6 +13,10 @@ def Substring(s):
                 max_len=max(max_len,len(st))
     return max_len
 
+
+
+# Time Complexity: O(n)
+# Space Complexity: O(min(n, m)) where n is the length of the string and m is the character set size.
 def length_of_longest_substring(s):
     map={}
     max_len=1
