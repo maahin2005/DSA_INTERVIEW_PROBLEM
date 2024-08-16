@@ -2,6 +2,9 @@
 # Problem:
 # Given a string containing just the characters (, ), {, }, [ and ], determine if the input string is valid.
 
+
+# Time Complexity: O(n)
+# Space Complexity: O(n)
 def is_valid(s):
     stack=[]
     for i in s:
