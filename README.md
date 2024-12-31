@@ -26,20 +26,20 @@ Each topic includes:
 ```text
 dsa-problem-sheet/
 ├── Arrays/
-│   ├── Basic/
-│   ├── Intermediate/
+│   ├── Easy/
+│   ├── Medium/
 │   ├── Hard/
 ├── LinkedList/
-│   ├── Basic/
-│   ├── Intermediate/
+│   ├── Easy/
+│   ├── Medium/
 │   ├── Hard/
 ├── Trees/
-│   ├── Basic/
-│   ├── Intermediate/
+│   ├── Easy/
+│   ├── Medium/
 │   ├── Hard/
 ├── Graphs/
-│   ├── Basic/
-│   ├── Intermediate/
+│   ├── Easy/
+│   ├── Medium/
 │   ├── Hard/
 └── README.md
 ```
@@ -52,7 +52,7 @@ dsa-problem-sheet/
 
 2. Navigate to the topic of interest:
 
-`cd Arrays/Basic`
+`cd Arrays/Easy`
 3. Solve problems using your preferred language. 🚀
 
 4. Check solutions or contribute your own! 📝
