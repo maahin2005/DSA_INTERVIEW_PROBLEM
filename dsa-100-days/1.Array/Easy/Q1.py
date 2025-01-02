@@ -61,11 +61,12 @@ print(ans)
 
 #t.c = O(n)
 # S.c = O(n)
-ans=[]
-for i in range(len(arr)):
-    if arr[i] not in ans:
-        ans.append(arr[i])
-print(ans)
+def findDistinct(arr):
+    ans=[]
+    for i in range(len(arr)):
+        if arr[i] not in ans:
+            ans.append(arr[i])
+    return ans
 
 
 
