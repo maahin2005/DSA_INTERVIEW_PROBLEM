@@ -16,3 +16,19 @@ def calculateSpan(prices):
 
 ans = calculateSpan(prices)
 print(ans)
+
+# Better Solution 
+
+def calculateSpan(prices):
+    n= len(prices)
+    spans = [1]*n
+    stack=[0]
+    for i in range(1,n):
+        while stack and prices[i]>=prices[stack[-1]]:
+            stack.pop()
+        spans[i]=i-stack[-1] if stack else i+1
+        stack.append(i)
+    return spans
+
+ans = calculateSpan(prices)
+print(ans)
