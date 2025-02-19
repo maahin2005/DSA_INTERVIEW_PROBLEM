@@ -4,7 +4,7 @@ for (let i = 0; i < 10; i++) {
   if (i + 2 === target) {
     console.log("yeahhh");
     return i; 
-    console.log('yes')
+    console.log('yes');
   }
   if(i+2 === target){
     console.log(i);

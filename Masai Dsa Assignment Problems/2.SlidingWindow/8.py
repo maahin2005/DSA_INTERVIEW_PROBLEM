@@ -1,6 +1,4 @@
 # Maximum Product Subarray
-# Ended
-# Show Editorial
 # Description
 # Given an array A of size n of positive and negative integers, find a subarray (containing at least one number) with the maximum product.
 # Input

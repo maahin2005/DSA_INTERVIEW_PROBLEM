@@ -18,7 +18,7 @@
 arr= [12, 10, 9, 45, 2, 10, 10, 45]
 
 
-# 1. Bruteforce
+# 1. Brute force approach
 
 # T.c = O(n^2)
 # S.c = O(1)
@@ -42,7 +42,7 @@ print(ans)
 
 #2. Better 
 #time complexity= O(n*logn) Time and 
-#Space complexity=  O(1) 
+#Space complexity=  O(n) 
 def findDistinct(arr):
     res=[]
     arr.sort()

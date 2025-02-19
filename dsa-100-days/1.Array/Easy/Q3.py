@@ -1,5 +1,4 @@
-# Sum of all Subarrays
-# Last Updated : 26 Nov, 2024
+# Sum of all Subarray
 # Given an integer array arr[], find the sum of all sub-arrays of the given array. 
 
 # Examples: 

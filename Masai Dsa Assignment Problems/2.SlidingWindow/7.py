@@ -1,6 +1,4 @@
 # Count triplets
-# Ended
-# Show Editorial
 # Description
 # You are given a sorted array consisting of N integers. You need to count to the number of triplets such that the absolute difference between the maximum and minimum element of t he triplet should be less than or equal to K.
 # Note:
