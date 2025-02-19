@@ -52,8 +52,8 @@ dsa-problem-sheet/
 
 1. Clone the repository:
 
-`git clone https://github.com/maahin2005/DsaInterviewProblem.git`
-`cd DsaInterviewProblem`
+`git clone https://github.com/maahin2005/DSA_INTERVIEW_PROBLEM`
+`cd DSA_INTERVIEW_PROBLEM`
 
 2. Navigate to the topic of interest:
 
@@ -98,8 +98,10 @@ Contributions are welcome! 💡
 
 ## 📫 Contact
 
-- 👤 Sangeeta Sharma
-- 📧 Email: sangeeta136428sharma@gmail.com
-- 🔗 GitHub: SangeetaSharma73
+- 👤 Mahin Malek
+- 📧 Email: mahin.malek2005@gmail.com
+- 🔗 GitHub: maahin2005
+
+### Note: This Repo cloned from my friend Sangeeta Sharma!
 
 ⭐ Don’t forget to star this repository if you find it useful! ⭐
